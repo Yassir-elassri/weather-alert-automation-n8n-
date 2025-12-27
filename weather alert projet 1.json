@@ -36,7 +36,7 @@
             },
             {
               "name": "appid",
-              "value": "715f526464b10965687a14fbfbbbb509"
+              "value": "your appid"
             }
           ]
         },
@@ -109,12 +109,12 @@
         624,
         -96
       ],
-      "id": "b9b3de62-8a7a-4b90-acb2-fcd481f618e6",
+      "id": "your id",
       "name": "Send email",
-      "webhookId": "0f768f0c-99ce-453c-ab06-99c786bedbb7",
+      "webhookId": "your webhook id",
       "credentials": {
         "smtp": {
-          "id": "kCFOIWK5d9gF0nZK",
+          "id": "your smtp id",
           "name": "SMTP account 3"
         }
       }
